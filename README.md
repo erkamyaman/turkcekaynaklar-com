@@ -729,6 +729,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Clean Code (Temiz Kod) Nedir?](https://medium.com/architectural-patterns/clean-code-temiz-kod-nedir-754fc7ccd5b8) - [Onur Dayıbaşı](https://odayibasi.medium.com/)
 - [Front-End Geliştirme Araçları](https://aycanogut.medium.com/front-end-geli%C5%9Ftirme-ara%C3%A7lar%C4%B1-ff3dc6b4511) - [Aycan Öğüt](https://github.com/aycanogut)
 - [Icomoon ile Web-Font Icon Paketleri Oluşturma](https://aycanogut.medium.com/icomoon-ile-web-font-icon-paketleri-olu%C5%9Fturma-2f6acd98dc67) - [Aycan Öğüt](https://github.com/aycanogut)
+- [ay-yildiz-skill](https://github.com/erkamyaman/ay-yildiz-skill) - Yapay zeka ajanlarına Türk Bayrağı'nı, 2893 sayılı Kanun'un cetvelindeki ölçülere göre çizdiren skill.
 
 
 
